@@ -39,3 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
  - [SimpleMDE (EasyMDE) Markdown Editor](https://www.npmjs.com/package/react-simplemde-editor)
  - [React Hook Form](https://react-hook-form.com/)
  - [prisma - Database ORM](https://www.prisma.io/)
+ -[schema validation ZOD](https://zod.dev/)
